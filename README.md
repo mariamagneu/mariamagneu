@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mariamagneu
 - 👀 I’m interested in new things that make tasks easier
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning HTML, CSS but piloting towards javascript
 - 💞️ I’m looking for a job! Highly communicative & energetic and love to work in partnerships between tech companies/startup projects.
 - 📫 How to reach me? telegram mariamneu
